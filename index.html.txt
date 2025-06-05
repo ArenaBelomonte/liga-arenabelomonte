@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Liga Arena Belo Monte</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>🏆 Liga Arena Belo Monte</h1>
+  </header>
+  <main>
+    <section class="intro">
+      <p>Bem-vindo ao site oficial do campeonato Liga Arena Belo Monte!</p>
+      <p>Acompanhe resultados, classificações e notícias.</p>
+    </section>
+    <section class="content">
+      <h2>Próximos Jogos</h2>
+      <ul>
+        <li>15/06 - Time A vs Time B</li>
+        <li>17/06 - Time C vs Time D</li>
+        <li>20/06 - Todona FC vs Gaspar Monte</li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>© 2025 Liga Arena Belo Monte - Todos os direitos reservados</p>
+  </footer>
+</body>
+</html>
